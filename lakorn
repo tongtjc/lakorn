@@ -4,12 +4,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
    "groups": [ 
-{
-"name"              :     "แม่โขง",
-"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แม่โขง",
-"import": false
-},
+
 {
 "name"              :     "ชีวิตภาคสอง",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
@@ -28,7 +23,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/หลังคาใบบัว",
 "import": false
 },
-
+{
+"name"              :     "แม่โขง-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แม่โขง",
+"import": false
+},
 {
 "name"              :     "พรหมลิขิต-จบ",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
