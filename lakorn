@@ -6,7 +6,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 
-
+{
+"name"              :     "ล้วง เล่ห์ ร้าย",
+"image"             :     "https://i.ytimg.com/vi/eXflEL3xs1g/maxresdefault.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/llb",
+"import": false
+},
 {
 "name"              :     "สงครามสมรส",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
