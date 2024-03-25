@@ -1,0 +1,21 @@
+{
+"name":"Reacher",
+"image": "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Reacher-SS1.jpg",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/reacher_m",
+   "groups": [ 
+
+{
+"name"              :     "Reacher (2022) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ Season 1",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Reacher-SS1.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/reacher_s1",
+"import": false
+},
+{
+"name"              :     "Reacher (2023) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ Season 2",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Reacher-SS2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/reacher_s2",
+"import": false
+}
+
+            ]
+}

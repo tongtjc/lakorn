@@ -1,0 +1,158 @@
+{
+"name":"Series",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
+   "groups": [ 
+
+
+{
+"name"              :     "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
+"image"             :     "https://www.serie-day.com/wp-content/uploads/2024/03/3-Body-Problem-2024-214x300.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/3bp",
+"import": false
+},
+{
+"name"              :     "Iron Reign (2024) เจ้าพ่อกำปั้นเหล็ก",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ironf",
+"import": false
+},
+{
+"name"              :     "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thegentlemen",
+"import": false
+},
+{
+"name"              :     "The Signal (2024) สัญญาณ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thesignal",
+"import": false
+},
+{
+"name"              :     "Furies (2024) ชำระแค้นทรชน",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
+"import": false
+},
+{
+"name"              :     "Shōgun (2024)",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/02/Shogun-2024.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/โชกุน",
+"import": false
+},
+{
+"name"              :     "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/atla",
+"import": false
+},
+{
+"name"              :     "A Killer Paradox (2024) หน้ากากความยุติธรรม",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/akp",
+"import": false
+},
+{
+"name"              :     "MR. & MRS. SMITH มิสเตอร์แอนด์มิสซิสสมิธ (2024) (SEASON 1)",
+"image"             :     "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mr-Mrs-Smith.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/mrms",
+"import": false
+},
+{
+"name"              :     "A Shop For Killers (2024) Sub Thai",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/01/A-Shop-For-Killers.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/asfk",
+"import": false
+},
+{
+"name"              :     "Reacher แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Reacher-SS2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/reacher_m",
+"import": false
+},
+{
+"name"              :     "แช่งชักหักกระดูก",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แช่งชักหักกระดูก",
+"import": false
+},
+{
+"name"              :     "Monarch: Legacy of Monsters (2023)",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/monarch",
+"import": false
+},
+{
+"name"              :     "สัประยุทธ์ทะลุฟ้า จอมดรุณหวนกลับคืน(Sub Thai)",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/btth",
+"import": false
+},
+{
+"name"              :     "Gyeongseong Creature (2023) สัตว์สยองกยองซอง - จบ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/สัตว์สยองกยองซอง",
+"import": false
+},
+{
+"name"              :     "Yu Yu Hakusho (2023) คนเก่งฟ้าประทาน - จบ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/yuyu",
+"import": false
+},
+{
+"name"              :     "ดูซีรี่ย์ Fishbowl Wives (2022) - จบ",
+"image"             :     "https://www.seriesday.com/wp-content/uploads/2023/04/Fishbowl-Wives-2022-214x300.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fishblow",
+"import": false
+},
+{
+"name"              :     "SWEET HOME SEASON 2 (2023) สวีทโฮม ซีซั่น 2 - จบ",
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/11/Sweet-Home-2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/hsw2",
+"import": false
+},
+{
+"name"              :     "Loki SS 2 - จบแล้ว",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/loki2",
+"import": false
+},
+{
+"name"              :     "Moving (2023) (ซับไทย) - จบแล้ว",
+"image"             :     "https://www.tvallseries.com/wp-content/uploads/2023/08/Moving-2023-300x170.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/move",
+"import": false
+},
+{
+"name"              :     "เพศศึกษา หลักสูตรเร่งรัก ซีซั่น 4 - จบแล้ว",
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/sexedu4",
+"import": false
+},
+{
+"name"              :     "The Continental - จบแล้ว",
+"image"             :     "https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/continental",
+"import": false
+},
+
+{
+"name"              :     "Ahsoka - จบแล้ว",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/08/Ahsoka-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/Ahsoka",
+"import": false
+},
+
+{
+"name"              :     "เรื่องตลก 69 - จบแล้ว",
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/09/6ixtynin9-The-Series-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/6ixtynin9",
+"import": false
+},
+
+
+]
+}

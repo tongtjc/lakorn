@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg" ,3 End
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sgcdnseriesn.xyz/
+https://www.sgcdnseriesn.xyz/view/ca68b394-dcc2-5924-9e56-61ed8c122e01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg" ,2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sgcdnseriesn.xyz/
+https://www.sgcdnseriesn.xyz/view/3bf1d233-9b05-5d21-a777-4ee03edf92bc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg" ,1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sgcdnseriesn.xyz/
+https://www.sgcdnseriesn.xyz/view/192f2456-b7d1-5281-a29e-95336375b4ff.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000009950301.JPEG" , EP.1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.watchlakorn.in/egdeny/3b386c80d6df8d61effd9860083125bf/aGQ=/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000009950301.JPEG" , EP.2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.watchlakorn.in/egdeny/75dd979f856a15694924865d9f0b7a5b/aGQ=/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000009950301.JPEG" , EP.3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.watchlakorn.in/egdeny/bab48dd9ff0f45fac0aab045731811a1/aGQ=/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000009950301.JPEG" , EP.4 จบ
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.watchlakorn.in/egdeny/172adf75c783c69f1a4c6fc7fd604cf6/aGQ=/master.m3u8

@@ -1,0 +1,252 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2022/05/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" ,Top Gun Maverick (2022) ท็อปกัน มาเวอริค
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://streamhls.com/view/7bf19b99-0bf6-57b0-824e-385567a80056.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/1415830697-movieposte-o.jpg" ,Top Gun (1986) ท็อปกัน ฟ้าเหนือฟ้า
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://streamhls.com/view/63d98420-4927-5fb5-80ed-bc6a6ff15c3f.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210418080545nobody-5fdcd3b081766.jpg" ,Nobody คนธรรมดานรกเรียกพี่ (2021)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Nobody_2021/Nobody_2021_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Mad-Max-Fury-Road.png" ,แมด แม็กซ์: ถนนโลกันตร์ (2015)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie2/Mad%20Max%20Fury%20Road%20(2015)/Mad%20Max%20Fury%20Road%20(2015)%20th%201080p%20fw.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211019101518dune-6120bd92ee626.jpg" ,Dune ดูน (2021)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Dune_2021/Dune_2021_th_1080p_F.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230607173512Au80OGVIMjnFaYmcyD2lbkRkbnU.jpg" ,Avatar The Way Of Water (2022) อวตาร วิถีแห่งสายน้ำ
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Avatar_The_Way_of_Water_2022/Avatar_The_Way_of_Water_2022_th_1080p_FFF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230617130551dd.jpg" ,Avatar อวตาร (2009)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Avatar_2009/Avatar_2009_th_1080p_FF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240217175358uOqAgAwQ8vGs2EAH5Qozc1l0tPd.jpg" ,The Last Breath of Sam Yan (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_Last_Breath_of_Sam_Yan_2023/The_Last_Breath_of_Sam_Yan_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240204214652bshCGAHZRldAfdxXDX3637PW9cR.jpg" ,Sick (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Sick_2022/Sick_2022_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200415125816San%20Andreas%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%A2%E0%B8%81%20(2015).jpg" ,San Andreas มหาวินาศแผ่นดินแยก (2015)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie2/San%20Andreas%20(2015)/San%20Andreas%20(2015)%20th_1080p%20fw.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20181216080615the-predator-5ba510995fdb5.jpg" ,The Predator เดอะ เพรดเดเทอร์ (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The-Predator-2018/The-Predator-2018-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170824204533919LMFn46UL._SL1500_.jpg" ,Alien: Covenant เอเลี่ยน โคเวแนนท์ (2017)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Alien-Covenant-2017/Alien-Covenant-2017-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200429153720Prometheus%20%E0%B9%82%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%B5%E0%B8%98%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B8%AA%20(2012).jpg" ,Prometheus โพรมีธีอุส (2012)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Prometheus-2012/Prometheus-2012-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200516153616AVP%20Alien%20vs.%20Predator%20%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%20%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%20%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%20(2004).jpg" ,AVP: Alien vs. Predator เอเลี่ยน ปะทะ พรีเดเตอร์ สงครามชิงเจ้ามฤตยู (2004)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Alien-vs-Predator-2004/Alien-vs-Predator-2004-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200511165224Alien%203%20%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%203%20%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%AA%E0%B8%A2%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%20(1992).jpg" ,Alien 3 เอเลี่ยน 3 อสูรสยบจักรวาล (1992)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Alien-III-1992/Alien-III-1992-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200516152514Predator%202%20%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%99%202%20%E0%B8%9A%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%20(1990).jpg" ,Predator 2 คนไม่ใช่คน 2 บดเมืองมนุษย์ (1990)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Predator-2-1990/Predator-2-1990-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200516153903Predator%20%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%99%20(1987).jpg" ,Predator คนไม่ใช่คน (1987)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Predator-1987/Predator-1987-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200511165613Alien%20%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%20(1979).jpg" ,Alien เอเลี่ยน (1979)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Alien-1979/Alien-1979-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Inception-2010.jpg" ,Inception จิตพิฆาตโลก (2010)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/inception-2010/Inception-2010-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/02/Initial-D-2005.jpg" ,Initial D (Tau man ji D) ดริฟท์ติ้ง...ซิ่งสายฟ้า (2005)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/Initial-D-2005/Initial-D-2005-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/06/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg" ,GUNS AKIMBO (2019) โทษที..มือพี่ไม่ว่าง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://streamhls.com/view/a7e1a45c-6f5a-55a6-a708-589549022c40.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240127101000icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg" ,The Witch: Part 2. The Other One แม่มดมือสังหาร (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_Witch_Part_2_The_Other_One_2022/The_Witch_Part_2_The_Other_One_2022_th_1080_2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2019072414302988.jpg" ,The Witch: Part 1. The Subversion (2018) บรรยายไทย
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_Witch_Part_1_The_Subversion_2018/The_Witch_Part_1_The_Subversion_2018_kr_1080p.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200514132632nRwLovgdL0CVo1iG0wELnflFSV4.jpg" ,ไบค์แมน 2 Bikeman 2 (2019)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Bikeman_2_2019/Bikeman_2_2019_th_1080p_NF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190205120748515151.jpg" ,ไบค์แมน ศักรินทร์ตูดหมึก Bikeman (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Bike-Man-2018/Bike-Man-2018-TH-720P-2.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Md27bmfMKJc0A4vABUX.jpg" ,THE MUMMY (2017) เดอะ มัมมี่
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The-Mummy-2017/The-Mummy-2017-TH-1080p.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/bVx90ISe7AEsdtpQGrC.jpg" ,The Cabin in the Woods แย่งตาย ทะลุตาย (2012)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie2/The-Cabin-in-the-Woods-2012/The-Cabin-in-the-Woods-2012-th-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026172028sqkKvZ08feB8XLrELZuvOhsYL5L.jpg" ,ตีสาม AFTER SHOCK 3 AM: Part 3 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/3_AM_Part_3_2018/3_AM_Part_3_2018_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026170311le2RpP4D9WGo5B5ZhUj3NrhlKS0.jpg" ,ตีสาม คืนสาม 3D 3 A.M. Part 2 (2014)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/3_A_M_Part_2_2014/3_A_M_Part_2_2014_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026165833bAdJKC34UtRxQRhUsm7Uwru2kWP.jpg" ,ตีสาม 3D 3 A.M. 3D (2012)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/3_A_M_3D_2012/3_A_M_3D_2012_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231022033440MV5BZTMxYjAwZWUtYWFlMy00ZTdjLWI2ZDMtNDgzMWQ0NTJlNzI2XkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_FMjpg_UX1000_.jpg" ,นางตะเคียน Takien: The Haunted Tree (2010)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Takien_The_Haunted_Tree_2010/Takien_The_Haunted_Tree_2010_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211102081453unnamed.jpg" ,คน ทรง ผี Waning Moon (2020)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Waning_Moon_2020/Waning_Moon_2020_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202110211425214Ap6Z_4f.jpg" ,เรื่อง ผี เล่า Haunted Tales (2021)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Haunted_Tales_2021/Haunted_Tales_2021_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Evil-2004.jpg" ,คน ผี ปีศาจ (2004) Evil
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://streamhls.com/view/81bc472f-5801-5f97-ba8e-ca1564bc42ae.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200115133941Thongsuk%20%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%81%2013.jpg" ,Thongsuk ทองสุก 13
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie1/thongsuk/thongsuk-th-en-720p-fwtv.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20221211192920grS4g94cGJ6DeI2DZpi37uJhucY.jpg" ,๑๐๐ ขา The One Hundred (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_One_Hundred_2022/The_One_Hundred_2022_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/03/eE9tIWHpW7RfIWPnGqS1z7vrbRz-200x300.jpg" ,DO YOU LOVE ME (2020) รักหนูมั้ย
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Rak_Nu_Mai_2020/Rak_Nu_Mai_2020_th_1080p_NF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2022061210333549a4e8c0-e710-11ec-b4b5-31553744f6ca_webp_original.jpg" ,ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022_th_1080p_FF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201905242342151.jpg" ,ไทบ้านเดอะซีรีส์ 2.2 Thi-Baan The Series 2.2 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thi_Baan_The_Series_2_2/Thi_Baan_The_Series_2_2_th_1080p.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180808103746thumb_2208.jpg" ,ไทบ้าน เดอะซีรี่ส์ 2.1 Thi-Baan The Series 2.1 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thi-Baan-The-Series-2-1-2018/Thi-Baan-The-Series-2-1-2018-th-480p-HQ-FW.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200128144338%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%20ThaiBan%20The%20Series%20(2017).jpg" ,ไทบ้านเดอะซีรีส์ THI-BAAN THE SERIES (2017)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thai-Ban-The-Series-2017/Thai-Ban-The-Series-2017-TH-480p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202207262121535y6JWdNTsRCkbmgMmSTGNgIsksc.jpg" ,City of Lies ทูพัค บิ๊กกี้ คดีไม่เงียบ (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=133869
+https://m1free.inwstream.com:1936/movie3/City_of_Lies_2018/City_of_Lies_2018_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/11/The-Assassination-of-Nie-Yinniang-%E0%B9%82%E0%B8%A8%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%8F%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%87-2022-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg" ,THE ASSASSINATION OF NIE YINNIANG (2022) โศกนาฏกรรมเนี่ยยิ่นเหนียง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/c3def827-d32c-5477-b5c6-8fbc1a3972c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170610184201LIFE_2017_DVD.jpg" ,Life สายพันธุ์มฤตยู (2017)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Life-2017/Life-2017-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170705062602species-the-awakening-species-iv.16710.jpg" ,Species: The Awakening สปีชี่ส์ 4 สายพันธุ์มฤตยู...ปลุกชีพพันธุ์นรก (2007)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Species-4-2007/Species-4-2007-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170705063127Displaymedia.jpg" ,Species III สปีชี่ส์ 3 สายพันธุ์มฤตยู...กำเนิดใหม่พันธุ์นรก (2004)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Species-3-2004/Species-3-2004-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201707050638583GwIEvxwMcU9tZO6RqkKHVPDn5z.jpg" ,Species II สปีชี่ส์ 2 สายพันธุ์มฤตยู...แพร่พันธุ์นรก (1998)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Species-2-1998/Species-2-1998-TH-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170705064447species.21205.jpg" , Species I สายพันธุ์มฤตยู...สวยสูบนรก (1995)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Species-1995/Species-1995-TH-1080p.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Snowden-2016.jpg",SNOWDEN (2016) สโนว์เดน อัจฉริยะจารกรรมเขย่ามหาอำนาจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/c4e289f4-24cb-549b-bb3f-221029b8eb0c.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://img.monomax.me/unsafe/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/products/103561_gCJHsyPDDXz5JFMc7cGW.jpg",ขุนแหย เสียงไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/The_Lost_Hero_Of_Ayodhya_2022/The_Lost_Hero_Of_Ayodhya_2022_th_1080p.mp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/Notre-Dame-on-Fire-2022.jpg",NOTRE-DAME ON FIRE (2022) ภารกิจกล้า ฝ่าไฟนอเทรอดาม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/32402213-f947-5fd4-b05c-9c87f6fd99f0.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/03/pgqgaUx1cJb5oZQQ5v0tNARCeBp-200x300.jpg",GODZILLA VS. KONG (2021) ก็อดซิลล่า ปะทะ คอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/c3a8a2de-87a9-5a14-90da-7b6bb6107e6f.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2019/05/paDe5Mw0nhsAkcCMsNmMdvJqkNk.jpg",GODZILLA KING OF THE MONSTERS (2019) ก็อดซิลล่า 2 ราชันแห่งมอนสเตอร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/f87512e3-315c-50a7-b35e-b006eb85846d.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/Kong-Skull-Island.jpg",KONG SKULL ISLAND (2017) คอง มหาภัยเกาะกะโหลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/ae4a8810-ac17-5bbc-b6ec-ad4808fe9e44.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/09/1htjKBq.jpg",GODZILLA (2014) ก็อตซิลล่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/8f03be9d-f68e-5a04-9d5f-82973d2541c1.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",หอแต๋วแตก 7 แหกโควิดปังปุริเย่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8
+#EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Into-the-Spider-Verse-2018-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-187x269.jpg",Spider Man Into the Spider Verse (2018) #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+เสียงไทย
+https://m1free.inwstream.com:1936/movie3/Spider-Man-Into-the-Spider-Verse-2018/Spider-Man-Into-the-Spider-Verse-2018-TH-1080p.mp4/chunk.m3u8
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/12/Rush-2013-%E0%B8%AD%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94.jpg",RUSH (2013) อัดเต็มสปีด เสียงไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://hlsp2p.com/view/be606c7c-4ecf-587f-abc8-8307db7e29a4.m3u8"
+

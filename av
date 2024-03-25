@@ -1,0 +1,16 @@
+{
+"name":"หนัง",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/av",
+   "groups": [ 
+
+{
+"name"              :     "หนัง AV",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/logo.png",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/avple.m3u",
+"import": true
+}
+
+
+]
+}

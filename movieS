@@ -1,0 +1,74 @@
+{
+"name":"หนังฟรี",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
+   "groups": [ 
+
+{
+"name"              :     "TJC Movie",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/logo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/add",
+"import": false
+},
+{
+"name"              :     "ละคร ย้อนหลัง",
+"image"             :     "https://cdn.watchlakorn.in/images/playlogo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+"import": false
+},
+
+{
+"name"              :     "ซีรี่",
+"image"             :     "https://lh4.googleusercontent.com/-fWxuNYS6NOE/TX4pUfjclvI/AAAAAAAAJjQ/_f7-Iqc3QF0/s400/M-Net+Series+logo+April+2011.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
+"import": false
+},
+
+{
+"name"              :     "ละคร ที่จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/images/video_logo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ละครจบแล้ว",
+"import": false
+},
+
+{
+"name"              :     "🦭ห้องUser-BANNEDbyอุ๋งอุ๋ง",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/images.jpg",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87User-BANNEDby%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
+"import": false
+},
+
+
+{
+"name"              :     "🦭wiseplayพูดคุยbyอุ๋งอุ๋ง",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/images.jpg",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/wiseplay%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B8%A2by%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
+"import": false
+},
+
+{
+"name"              :     "🦭iptvsocietybyอุ๋งอุ๋ง",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/images.jpg",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/iptvsocietyby%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
+"import": false
+},
+
+
+{
+"name"              :     "🦭ห้องแลกเปลี่ยนbyอุ๋งอุ๋ง",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/images.jpg",
+"url"               :     "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99by%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
+"import": false
+},
+
+{
+"name"              :     "ตูนๆ พี่เก้า",
+"image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/5555..png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/toontoon",
+"import": false
+},
+
+]
+}
+#####https://github.com/doonungfreefree/free#####

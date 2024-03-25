@@ -1,0 +1,161 @@
+{
+"name":"ละคร ย้อนหลัง",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+   "groups": [ 
+
+
+
+{
+"name"              :     "สงครามสมรส",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/สงครามสมรส",
+"import": false
+},
+{
+"name"              :     "รักนี้ไม่มีปลอม",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1708354373.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักนี้ไม่มีปลอม",
+"import": false
+},
+{
+"name"              :     "เรือนทาส",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/เรือนทาส",
+"import": false
+},
+{
+"name"              :     "ในรอยทราย",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ในรอยทราย",
+"import": false
+},
+{
+"name"              :     "มือปราบทหาอุตม์",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/มือปราบทหาอุตม์",
+"import": false
+},
+{
+"name"              :     "ฟางหล่นไฟ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ฟางหล่นไฟ",
+"import": false
+},
+{
+"name"              :     "วิมานสีทอง - จบ",
+"image"             :     "https://mpics.mgronline.com/pics/Images/567000000497501.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/วิมานสีทอง",
+"import": false
+},
+
+{
+"name"              :     "วิญญาณแพศยา-จบ",
+"image"             :     "https://banlakorn.com/wp-content/uploads/2024/01/%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%81%E0%B8%9E%E0%B8%A8%E0%B8%A2%E0%B8%B2-678x381.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/วิญญาณแพศยา",
+"import": false
+},
+{
+"name"              :     "หารักด้วยใจเธอ-จบ",
+"image"             :     "https://i0.wp.com/www.korseries.com/wp-content/uploads/2023/12/Find-Yourself-TH-Ver-Cover.jpg?w=2000&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/หารักด้วยใจเธอ",
+"import": false
+},
+{
+"name"              :     "กลเกมรัก - จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/กลเกมรัก",
+"import": false
+},
+{
+"name"              :     "ชีวิตภาคสอง - จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ชีวิตภาคสอง",
+"import": false
+},
+{
+"name"              :     "หลังคาใบบัว-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/หลังคาใบบัว",
+"import": false
+},
+{
+"name"              :     "แม่โขง-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แม่โขง",
+"import": false
+},
+{
+"name"              :     "พรหมลิขิต-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/พรหมลิขิต",
+"import": false
+},
+
+{
+"name"              :     "vip รักซ่อนชู้-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักซ่อนชู้",
+"import": false
+},
+{
+"name"              :     "รักแท้เฉพาะที่-จบ",
+"image"             :     "https://mpics.mgronline.com/pics/Images/566000009950301.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/truelove",
+"import": false
+},
+
+{
+"name"              :     "เสือตัดสิงห์ ลิงหลอกเจ้า-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/tigerlion",
+"import": false
+},
+
+{
+"name"              :     "ปาฏิหาริย์รัก-จบ",
+"image"             :     "https://mpics.mgronline.com/pics/Images/566000006999701.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"import": false
+},
+
+{
+"name"              :     "พนมนาคา - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/panom",
+"import": false
+},
+
+{
+"name"              :     "ลมพัดผ่านดาว - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/windstar",
+"import": false
+},
+
+{
+"name"              :     "บุหงาส่าหรี - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9A%E0%B8%B8%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B5",
+"import": false
+},
+
+{
+"name"              :     "เกมรักทรยศ - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
+"import": false
+},
+
+{
+"name"              :     "สืบลับหมอระบาด - จบแล้ว",
+"image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/flu",
+"import": false
+},
+
+
+
+]
+}

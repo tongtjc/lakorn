@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",laotv
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",laotv
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl2_480p/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",laotv
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsport1_480p/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",laotv
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd2_480p/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",ballhd24.live
+#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3_480p/chunks.m3u8
+
