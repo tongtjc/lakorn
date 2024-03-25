@@ -1,12 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240325040120aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg" ,Thirteen Days 13 วัน ปฏิบัติการหายนะโลก (2000)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thirteen_Days_2000/Thirteen_Days_2000_th_1080.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2022/05/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" ,Top Gun Maverick (2022) ท็อปกัน มาเวอริค
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://streamhls.com/view/7bf19b99-0bf6-57b0-824e-385567a80056.m3u8
+https://m1free.inwstream.com:1936/movie3/Top_Gun_Maverick_2022/Top_Gun_Maverick_2022_th_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/1415830697-movieposte-o.jpg" ,Top Gun (1986) ท็อปกัน ฟ้าเหนือฟ้า
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://streamhls.com/view/63d98420-4927-5fb5-80ed-bc6a6ff15c3f.m3u8
+https://m1free.inwstream.com:1936/movie3/Top_Gun_1986/Top_Gun_1986_TH_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210418080545nobody-5fdcd3b081766.jpg" ,Nobody คนธรรมดานรกเรียกพี่ (2021)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
