@@ -24,12 +24,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักนี้ไม่มีปลอม",
 "import": false
 },
-{
-"name"              :     "เรือนทาส",
-"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/เรือนทาส",
-"import": false
-},
+
 {
 "name"              :     "ในรอยทราย",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
@@ -46,6 +41,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "name"              :     "ฟางหล่นไฟ",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ฟางหล่นไฟ",
+"import": false
+},
+{
+"name"              :     "เรือนทาส-จบ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/เรือนทาส",
 "import": false
 },
 {
