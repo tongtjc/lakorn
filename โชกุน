@@ -26,3 +26,8 @@ https://sgcdnseriesn.xyz/view/5c56bed6-a897-52cd-84c4-f51f0b8f6c21.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://sgcdnseriesn.xyz/view/271c44e4-ede2-5c11-8e03-0798fa9d345d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/02/Shogun-2024.jpg" , 6
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://playcdn.tvallseries.com/7a5d985a-d03c-43b2-bfbf-c4c4e9188802/0
